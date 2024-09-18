@@ -62,9 +62,10 @@ Explore the toolkit, build your skills, and take the next step in your AI career
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
 
-**AI-Career-Toolkit is a community-driven project.**  
-Use these resources as inspiration and adapt them to showcase your unique skills and experiences.
+  <p><strong>AI-Career-Toolkit is a community-driven project.</strong></p>  
+  <p>Use these resources as inspiration and adapt them to showcase your unique skills and experiences.</p>
 
 </div>
+
