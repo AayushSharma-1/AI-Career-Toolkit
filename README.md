@@ -1,16 +1,18 @@
 
 
-<div align="center">
+<div style="text-align: center;">
 
-# 🚀 AI-Career-Toolkit
+  <h1>🚀 AI-Career-Toolkit</h1>
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license">
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
   <a href="https://discord.gg/QKw67PDZUm">
-    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
+    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community">
   </a>
 
-**A comprehensive resource hub for launching and advancing careers in AI, ML, and related fields.**
+  <p><strong>A comprehensive resource hub for launching and advancing careers in AI, ML, and related fields.</strong></p>
 
 </div>
 
